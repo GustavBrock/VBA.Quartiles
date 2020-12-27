@@ -186,3 +186,11 @@ Full documentation can be found here:
 [20 Varieties of Quartiles](https://www.experts-exchange.com/articles/33718/20-Varieties-of-Quartiles.html)
 
 Included is a Microsoft Access example application.
+
+<hr>
+
+*If you wish to support my work or need extended support or advice, feel free to:*
+
+<p>
+
+[<img src="https://raw.githubusercontent.com/GustavBrock/VBA.Quartiles/master/images/BuyMeACoffee.png">](https://www.buymeacoffee.com/gustav/)
