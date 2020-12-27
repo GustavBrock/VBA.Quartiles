@@ -183,7 +183,7 @@ Full documentation can be found here:
 
 ![EE Logo](https://raw.githubusercontent.com/GustavBrock/VBA.Quartiles/master/images/EE%20Logo.png) 
 
-[20 Varieties of Quartiles](https://www.experts-exchange.com/articles/33718/20-Varieties-of-Quartiles.html)
+[20 Varieties of Quartiles](https://www.experts-exchange.com/articles/33718/20-Varieties-of-Quartiles.html?preview=%2BptL2cPnHpk%3D)
 
 Included is a Microsoft Access example application.
 
